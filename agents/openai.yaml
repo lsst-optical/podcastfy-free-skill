@@ -1,0 +1,4 @@
+interface:
+  display_name: "Podcastfy Free"
+  short_description: "Convert sources to Markdown and create free dialogue podcasts with Edge TTS."
+  default_prompt: "Use podcastfy-free to convert this material to Markdown, understand it deeply, and create a free Chinese dialogue-style audio blog."
